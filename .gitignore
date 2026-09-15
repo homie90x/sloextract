@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/output/*.xlsx
+logs/*.log
+.DS_Store
+*.pdf
+!data/input/sample.pdf   # (optional: track one sample)
